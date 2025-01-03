@@ -13,7 +13,7 @@ Para utilizar este proyecto, asegúrate de tener [Node.js](https://nodejs.org/) 
    git clone https://github.com/soyNelsonValenzuela/Final_Drilling-M6.git
    cd Final_Drilling-M6
    ```
-	2.	Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
   ```bash
   npm start
 ```
@@ -122,4 +122,4 @@ Una vez que el servidor esté corriendo, puedes interactuar con las siguientes r
 ### Autor
 
 Desarrollado por **Nelson Valenzuela**.
-Repositorio: [Final_Drilling-M6](https://github.com/soyNelsonValenzuela/Final_Drilling-M6.git)
+Repositorio: [Final_Drilling-M6](https://github.com/soyNelsonValenzuela/Final_Drilling-M6.git).
