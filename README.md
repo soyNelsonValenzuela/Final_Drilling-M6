@@ -15,7 +15,7 @@ Para utilizar este proyecto, asegúrate de tener [Node.js](https://nodejs.org/) 
    ```
 2. Instala las dependencias necesarias:
   ```bash
-  npm start
+  npm i
 ```
 
 ---
